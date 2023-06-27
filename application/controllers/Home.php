@@ -39,7 +39,9 @@ class Home extends CI_Controller {
 		echo "Hello Imran, I am your new Mentor";
 	}
 	
-
+	public function imran(){
+		echo "Hello Ali, I acknowledge yo as my Mentor. pleae guide me in PHP.";
+	}
 
 
 	
