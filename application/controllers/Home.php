@@ -35,7 +35,9 @@ class Home extends CI_Controller {
 		$data['title']="checkout";
 		$this->load->view('checkout',$data);
 	}
-
+	public function test(){
+		echo "Hello Imran, I am your new Mentor";
+	}
 	
 
 
